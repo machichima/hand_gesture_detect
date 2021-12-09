@@ -1,6 +1,6 @@
 # hand_gesture_detect
 ## Description
-using CNN and LSTM to build static and dynamic hand gesture detect
+Use python tensorflow Keras to build CNN and LSTM model, use them to predict static and dynamic hand gesture.
 
 ## Data preparation
 use file change_img_to_YCrCb.py to change pictures into black-and-white pictures, As it is more simple to identify through black-and-white picture.
